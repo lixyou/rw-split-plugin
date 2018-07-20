@@ -1,1 +1,1 @@
-# rw-split-plugin
+# rw-split-plugin（读写分离插件）
